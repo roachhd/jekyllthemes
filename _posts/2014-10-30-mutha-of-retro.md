@@ -1,6 +1,20 @@
 ---
-title:       Mutha of Retro
-Tagline:     A theme so good you'll be shitting sparkles and fairy dust!
+layout: post
+title:  "Mutha of Retro"
+date:   2014-10-30 10:20:00
+homepage: https://github.com/roachhd/mutha-of-retro
+download: https://github.com/roachhd/mutha-of-retro/archive/master.zip
+demo: http://roachhd.io/2013/11/10/mutha-of-retro-theme-for-jekyll.html
+author: Katie Ball
+thumbnail: mutha-of-retro.png
+license: MIT License
+license_link: https://github.com/roachhd/mutha-of-retro/blob/master/LICENSE.txt
+---
+
+Mutha of Retro! A theme so good you'll be shitting sparkles and fairy dust!
+
+
+------------------
 
 MUTHA of RETRO
 ===

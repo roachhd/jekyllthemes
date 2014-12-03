@@ -1,6 +1,8 @@
 name: Sick Jekyll Themes
-url: http://katieball.me/jekyll-please/
+url: http://katieball.me/jekyllthemes
 description: Awesome themes by an Awesome chick
+
+baseurl: /jekyllthemes
 
 permalink: /themes/:title/
 
